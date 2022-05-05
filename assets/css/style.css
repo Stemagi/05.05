@@ -1,11 +1,18 @@
-.btn{
-  display: inline-block;
-  min-width: 100px;
-  max-width: 140px;
-   white-space: nowrap;
-   overflow: hidden ;
-   text-overflow: ellipsis;
-   text-transform: uppercase;
+body{
+  margin: 0;
+}
+.container{
+  height: 100vh;
+  background-color: rgba(2, 52, 52, 0.753);
+  background-image: url(https://i.pinimg.com/564x/1f/18/1a/1f181a0fd4fed6472eeb9ba823dfcb54.jpg);
+  background-repeat: repeat-y;
+  /* background-size: cover; */
+  background-position: left;
+}
+.heading{
+  color: aliceblue;
+  text-align: center;
+  padding-top: 5%;
 
 
 }
